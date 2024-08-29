@@ -1,1 +1,2 @@
-# Automatizacion_movile
+# QAInnovationLab
+Automation Team / For education purpose
